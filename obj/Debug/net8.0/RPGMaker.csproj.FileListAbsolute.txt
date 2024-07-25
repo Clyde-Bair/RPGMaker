@@ -1,0 +1,14 @@
+C:\Users\MCA-20\source\repos\RPGMaker\bin\Debug\net8.0\RPGMaker.exe
+C:\Users\MCA-20\source\repos\RPGMaker\bin\Debug\net8.0\RPGMaker.deps.json
+C:\Users\MCA-20\source\repos\RPGMaker\bin\Debug\net8.0\RPGMaker.runtimeconfig.json
+C:\Users\MCA-20\source\repos\RPGMaker\bin\Debug\net8.0\RPGMaker.dll
+C:\Users\MCA-20\source\repos\RPGMaker\bin\Debug\net8.0\RPGMaker.pdb
+C:\Users\MCA-20\source\repos\RPGMaker\obj\Debug\net8.0\RPGMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MCA-20\source\repos\RPGMaker\obj\Debug\net8.0\RPGMaker.AssemblyInfoInputs.cache
+C:\Users\MCA-20\source\repos\RPGMaker\obj\Debug\net8.0\RPGMaker.AssemblyInfo.cs
+C:\Users\MCA-20\source\repos\RPGMaker\obj\Debug\net8.0\RPGMaker.csproj.CoreCompileInputs.cache
+C:\Users\MCA-20\source\repos\RPGMaker\obj\Debug\net8.0\RPGMaker.dll
+C:\Users\MCA-20\source\repos\RPGMaker\obj\Debug\net8.0\refint\RPGMaker.dll
+C:\Users\MCA-20\source\repos\RPGMaker\obj\Debug\net8.0\RPGMaker.pdb
+C:\Users\MCA-20\source\repos\RPGMaker\obj\Debug\net8.0\RPGMaker.genruntimeconfig.cache
+C:\Users\MCA-20\source\repos\RPGMaker\obj\Debug\net8.0\ref\RPGMaker.dll
